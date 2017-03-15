@@ -1,0 +1,15 @@
+Array
+(
+    [0] => Array
+        (
+            [name] => Lorem
+            [number] => 11
+        )
+
+    [1] => Array
+        (
+            [name] => ipsum
+            [number] => 22
+        )
+
+)

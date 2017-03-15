@@ -1,0 +1,12 @@
+<?php
+  $dbtifa = mysql_connect("172.16.20.2", "root", "*9A4C5401B99FD421886D14AD4ABA255FF4D5A270") or die (mysql_error());
+            mysql_select_db("inventaris1", $dbtifa);
+            
+$sql = "select * from inventaris limit 5";
+$query=mysql_query($sql, $dbtifa) or die(mysql_error());
+while($row=mysql_fetch_assoc($query)){
+
+  print_r($row);
+}           
+
+?>

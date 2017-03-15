@@ -1,0 +1,153 @@
+No.;Data perangkat;Unit;Merk;Tipe;S/N;Lokasi;Data Pemeliharaan;IP
+1;Server ;1;Dell;PowerEdge R420;CVHVF42;Di ruang server AP2;;10.10.18.40
+;Server ;1;;PowerEdge R420;44KSF42;Di ruang server AP2;;10.10.18.50
+;;;;;;;;
+2;Switch;1;hp;ProCurve E2530-24G;CN48FP73ZW;Di ruang server AP2;;10.10.18.120
+;Switch ;1;hp;ProCurve E2530-24G;CN42FP738C;Di ruang server AP2;;192.168.9.138
+;Switch ;1;hp;ProCurve E2530-24G;CN48FP73R4;Di ruang server AP2;;192.168.9.135
+;Switch ;1;hp;ProCurve E2530-24G;CN42FP745G;Di ruang server AP2;;192.168.9.136
+;Switch ;1;hp;ProCurve E2530-24G;;Spare;;
+;Switch ;1;hp;ProCurve E2530-24G;;Spare;;
+;Switch ;1;hp;ProCurve E2530-24G;;Spare;;
+;Switch ;1;hp;ProCurve E2530-24G;;Spare;;
+;Switch ;1;hp;ProCurve E2530-24G;;Spare;;
+;Switch ;1;hp;ProCurve E2530-24G;;Spare;;
+;;;;;;;;
+3;Firewall 4-port;1;;;CNQADP99HL;Di ruang server AP2;;10.10.18.2
+;Firewall 4-port;1;;;CNZ0PG60R1;Di ruang server AP2;;10.10.18.3
+;;;;;;;;
+4;KVM;1;Rextron;DHKS-10;;Di ruang server AP2;;
+;;;;;;;;
+5;Rack;2;;;;Di ruang server AP2;;
+;;;;;;;;
+6;UPS 3000VA;1;APC;SUA3000RMi2U;AS1446133292;Di ruang server AP2;;
+;UPS 3000VA;1;APC;SUA3000RMi2U;AS1446133302;Di ruang server AP2;;
+;;;;;;;;
+7;PC;1;Dell;Optiplex 7020;11VKW22 / 2290291274;Counter01;;192.168.9.10
+;PC;1;Dell;Optiplex 7020;3LTKW22 / 7849820234;Counter02;;192.168.9.11
+;PC;1;Dell;Optiplex 7020;DHTKW22 / 29375778890;Counter03;;192.168.9.12
+;PC;1;Dell;Optiplex 7020;FFTKW22 / 33608411210;Counter04;;192.168.9.13
+;PC;1;Dell;Optiplex 7020;BTVKW22 / 25751167562;Counter05;;192.168.9.14
+;PC;1;Dell;Optiplex 7020;7HTKW22 / 16315084874;Counter06;;192.168.9.15
+;PC;1;Dell;Optiplex 7020;39TKW22 / 7124226122;Counter07;;192.168.9.16
+;PC;1;Dell;Optiplex 7020;JFTKW22 / 42315540554;Counter08;;192.168.9.17
+;PC;1;Dell;Optiplex 7020;5GTKW22 / 11901054026;Counter09;;192.168.9.18
+;PC;1;Dell;Optiplex 7020;BCTKW22 / 24719883338;Counter10;;192.168.9.19
+;PC;1;Dell;Optiplex 7020;HKTKW22 / 38264306762;Gate03;;192.168.9.30
+;PC;1;Dell;Optiplex 7020;4BTKW22 / 9421940810;Gate02;;192.168.9.31
+;PC;1;Dell;Optiplex 7020;8JTKW22 / 18612799562;Gate03;;192.168.9.32
+;PC;1;Dell;Optiplex 7020;C8TKW22 / 26654800970;Gate02;;192.168.9.33
+;PC;1;Dell;Optiplex 7020;H7TKW22 / 37478246474;Di ruang kontrol;;192.168.9.140
+;PC;1;Dell;Optiplex 7020;C6TKW22 / 26533868618;Di ruang kontrol;;192.168.9.141
+;PC;1;Dell;Optiplex 7020;4JTKW22 / 9905670218;Di ruang kontrol;;
+;PC;1;Dell;Optiplex 7020;;Spare;;
+;PC;1;Dell;Optiplex 7020;;Spare;;
+;PC;1;Dell;Optiplex 7020;;Spare;;
+;PC;1;Dell;Optiplex 7020;;Spare;;
+;PC;1;Dell;Optiplex 7020;;Spare;;
+;PC;1;Dell;Optiplex 7020;;Spare;;
+;;;;;;;;
+8;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1VIB;Counter01;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1UTB;Counter02;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1U3B;Counter03;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-485-0HVI;Counter04;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-475-1T4U;Counter05;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1UAB;Counter06;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1VCB;Counter07;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1QVB;Counter08;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-490-10AI;Counter09;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1UCB;Counter10;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-49B-107I;Gate03;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1U0B;Gate02;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1UKB;Gate03;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1UFB;Gate02;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-485-0JFI;Di ruang kontrol;;
+;LCD;1;Dell;E1914Hc;CN-04H19R-72872-487-1UVB;Di ruang kontrol;;
+;LCD;1;Dell;E1914Hc;CN-0657PN-64180-487-1UFB;Di ruang kontrol;;
+;LCD;1;Dell;E1914Hc;;Spare;;
+;LCD;1;Dell;E1914Hc;;Spare;;
+;LCD;1;Dell;E1914Hc;;Spare;;
+;LCD;1;Dell;E1914Hc;;Spare;;
+;LCD;1;Dell;E1914Hc;;Spare;;
+;LCD;1;Dell;E1914Hc;;Spare;;
+;;;;;;;;
+9;Thermal printer;1;Zebra;GC 420 D;53J143900587;Counter01;;
+;Thermal printer;1;Zebra;GC 420 D;53J144101113;Counter02;;
+;Thermal printer;1;Zebra;GC 420 D;53J143201019;Counter03;;
+;Thermal printer;1;Zebra;GC 420 D;53J144101094;Counter04;;
+;Thermal printer;1;Zebra;GC 420 D;53J143900628;Counter05;;
+;Thermal printer;1;Zebra;GC 420 D;53J143900624;Counter06;;
+;Thermal printer;1;Zebra;GC 420 D;53J144101115;Counter07;;
+;Thermal printer;1;Zebra;GC 420 D;53J143900603;Counter08;;
+;Thermal printer;1;Zebra;GC 420 D;53J144101107;Counter09;;
+;Thermal printer;1;Zebra;GC 420 D;53J151602252;Counter10;;
+;Thermal printer;1;Zebra;GC 420 D;53J144101099;Self-Check-In01;;
+;Thermal printer;1;Zebra;GC 420 D;53J144101093;Self-Check-In02;;
+;Thermal printer;1;Zebra;GC 420 D;;Spare;;
+;Thermal printer;1;Zebra;GC 420 D;;Spare;;
+;Thermal printer;1;Zebra;GC 420 D;;Spare;;
+;Thermal printer;1;Zebra;GC 420 D;;Spare;;
+;Thermal printer;1;Zebra;GC 420 D;;Spare;;
+;Thermal printer;1;Zebra;GC 420 D;;Spare;;
+;;;;;;;;
+10;Bagtag printer;1;Zebra;GC 420 D;53J143900645;Counter01;;
+;Bagtag printer;1;Zebra;GC 420 D;53J143900608;Counter02;;
+;Bagtag printer;1;Zebra;GC 420 D;53J144101297;Counter03;;
+;Bagtag printer;1;Zebra;GC 420 D;53J143900604;Counter04;;
+;Bagtag printer;1;Zebra;GC 420 D;53J143900627;Counter05;;
+;Bagtag printer;1;Zebra;GC 420 D;53J144101092;Counter06;;
+;Bagtag printer;1;Zebra;GC 420 D;53J143900575;Counter07;;
+;Bagtag printer;1;Zebra;GC 420 D;53J144101116;Counter08;;
+;Bagtag printer;1;Zebra;GC 420 D;53J144300302;Counter09;;
+;Bagtag printer;1;Zebra;GC 420 D;53J145101980;Counter10;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;Bagtag printer;1;Zebra;GC 420 D;;Spare;;
+;;;;;;;;
+11;UPS 1500VA;1;APC;BR1500GI;3B1448X03918;Counter01;;
+;UPS 1500VA;1;APC;BR1500GI;3B1447X00177;Counter02;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03757;Counter03;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03895;Counter04;;
+;UPS 1500VA;1;APC;BR1500GI;3B1445X30583;Counter05;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03906;Counter06;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03733;Counter07;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03985;Counter08;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03940;Counter09;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03931;Counter10;;
+;UPS 1500VA;1;APC;BR1500GI;3B1438X10026;Gate03;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03811;Gate02;;
+;UPS 1500VA;1;APC;BR1500GI;3B1448X03923;Di ruang kontrol;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;UPS 1500VA;1;APC;BR1500GI;;Spare;;
+;;;;;;;;
+12;Printer manifest;1;Epson;LX-310;Q7FY200231;Gate03;;
+;Printer manifest;1;Epson;LX-310;Q7FY200241;Gate02;;
+;Printer manifest;1;Epson;LX-310;;Spare;;
+;;;;;;;;
+13;Scanner;3;Access;LSR-116;;Spare;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+14;Automatic Gate;1;KABA;;;Pintu boarding lantai 2 / Gate 03;;192.168.9.60
+;Automatic Gate;1;KABA;;;Pintu boarding lantai 2 / Gate 02;;192.168.9.61
+;Automatic Gate;1;KABA;;;Pintu boarding lantai 2 / Gate 01;;192.168.9.62
+;;;;;;;;
+15;UPS PASCAL;1;APC;P - 850CLU;CLUL85AD413;Self-Check-In 01;;
+;UPS PASCAL;1;APC;P - 850CLU;CLUL85AD414;Self-Check-In 02;;
+;UPS PASCAL;1;APC;P - 850CLU;CLUL85AD388;Autogate 1;;
+;UPS PASCAL;1;APC;P - 850CLU;CLUL85AD323;Autogate 2;;
+;UPS PASCAL;1;APC;P - 850CLU;CLUL85AD389;Autogate 3;;
+;;;;;;;;
+16;Kios;1;;;;;;10.10.18.43
+;Kios;1;;;;;;10.10.18.52
