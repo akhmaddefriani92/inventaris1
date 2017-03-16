@@ -1152,5 +1152,12 @@ class DB_Function {
 
 		return $query;
 	}
+	
+	public function hello(){
+  	  $data="hahaha";
+  	  
+  	  
+	 return $data;
+	}
 }
 ?>
